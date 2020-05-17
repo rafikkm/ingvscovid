@@ -96,17 +96,12 @@ input:-webkit-autofill:focus {
 **/
 
 figcaption {
-    text-align: center;
-    font-size: 10px;
-    /* text-indent: 28%; */
+    
+    text-align: left;
+	font-size: 10px;
+	text-indent: 28%;
 }
 
-
-@media (max-width:800px) {
-  img#introdimage {
-    display: none;
-  }
-}
 
 
 
